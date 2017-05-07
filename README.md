@@ -1,0 +1,2 @@
+# edenblog
+script pribadi
